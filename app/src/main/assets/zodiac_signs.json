@@ -1,0 +1,76 @@
+{
+  "zodiac_signs": [
+    {
+      "name": "Aries",
+      "month": "March 21 - April 19",
+      "description": "Aries are known for their courage, determination, and enthusiasm. They are natural leaders and are always up for a challenge.",
+      "image": "aries"
+    },
+    {
+      "name": "Taurus",
+      "month": "April 20 - May 20",
+      "description": "Taurus individuals are reliable, patient, and practical. They appreciate stability and are known for their strong work ethic.",
+      "image": "taurus"
+    },
+    {
+      "name": "Gemini",
+      "month": "May 21 - June 20",
+      "description": "Geminis are adaptable, outgoing, and intelligent. They are known for their curiosity and love for communicating with others.",
+      "image": "gemini"
+    },
+    {
+      "name": "Cancer",
+      "month": "June 21 - July 22",
+      "description": "Cancer individuals are compassionate, nurturing, and protective. They value family and close relationships and are known for their empathy.",
+      "image": "cancer"
+    },
+    {
+      "name": "Leo",
+      "month": "July 23 - August 22",
+      "description": "Leos are confident, creative, and charismatic. They love being the center of attention and are known for their generosity and loyalty.",
+      "image": "leo"
+    },
+    {
+      "name": "Virgo",
+      "month": "August 23 - September 22",
+      "description": "Virgos are analytical, practical, and hardworking. They have a keen eye for detail and are always willing to help others.",
+      "image": "virgo"
+    },
+    {
+      "name": "Libra",
+      "month": "September 23 - October 22",
+      "description": "Libras are diplomatic, charming, and fair-minded. They value harmony and balance in their lives and are known for their social nature.",
+      "image": "libra"
+    },
+    {
+      "name": "Scorpio",
+      "month": "October 23 - November 21",
+      "description": "Scorpios are passionate, resourceful, and determined. They are known for their intensity and strong intuition.",
+      "image": "scorpio"
+    },
+    {
+      "name": "Sagittarius",
+      "month": "November 22 - December 21",
+      "description": "Sagittarius individuals are adventurous, optimistic, and freedom-loving. They have a strong desire to explore the world and are known for their honesty.",
+      "image": "sagittarius"
+    },
+    {
+      "name": "Capricorn",
+      "month": "December 22 - January 19",
+      "description": "Capricorns are disciplined, responsible, and ambitious. They are known for their practicality and ability to achieve their goals.",
+      "image": "capricorn"
+    },
+    {
+      "name": "Aquarius",
+      "month": "January 20 - February 18",
+      "description": "Aquarians are independent, innovative, and humanitarian. They value individuality and are known for their forward-thinking ideas.",
+      "image": "aquarius"
+    },
+    {
+      "name": "Pisces",
+      "month": "February 19 - March 20",
+      "description": "Pisces individuals are compassionate, imaginative, and intuitive. They are known for their empathy and ability to connect with others on an emotional level.",
+      "image": "pisces"
+    }
+  ]
+}
